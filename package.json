@@ -1,0 +1,13 @@
+{
+  "name": "solana-training",
+  "scripts": {
+    "start": "npx esrun index.ts"
+  },
+  "dependencies": {
+    "@solana-developers/helpers": "^2.4.0",
+    "@solana/web3.js": "^1.95.2",
+    "dotenv": "^16.4.5",
+    "esrun": "^3.2.26"
+  },
+  "packageManager": "yarn@3.6.1"
+}
